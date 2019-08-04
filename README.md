@@ -1,4 +1,4 @@
 # hello-world
-first steps in GitHub
+first steps (GitHub)
 
 enjoying coding again :)
